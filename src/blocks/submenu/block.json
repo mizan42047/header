@@ -4,7 +4,7 @@
 	"name": "toehold/submenu",
 	"version": "1.0.0",
 	"title": "Header Submenu",
-	"category": "toehold",
+	"category": "text",
 	"description": "Submenu for header template",
 	"parent": ["toehold/menu-item"],
 	"example": {

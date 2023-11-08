@@ -4,7 +4,7 @@
 	"name": "toehold/header-container",
 	"version": "1.0.0",
 	"title": "Header Container",
-	"category": "toehold",
+	"category": "text",
 	"description": "Container for header template",
 	"example": {
 		"preview": true

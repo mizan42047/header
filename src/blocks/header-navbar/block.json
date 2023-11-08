@@ -4,7 +4,7 @@
 	"name": "toehold/header-navbar",
 	"version": "1.0.0",
 	"title": "Header Navbar",
-	"category": "toehold",
+	"category": "text",
 	"description": "Navbar for header template",
 	"parent": ["toehold/header-container"],
 	"example": {

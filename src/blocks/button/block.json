@@ -4,7 +4,7 @@
 	"name": "toehold/button",
 	"version": "1.0.0",
 	"title": "Toehold Button",
-	"category": "toehold",
+	"category": "text",
 	"description": "Button for toehold theme",
 	"example": {
 		"attributes": {

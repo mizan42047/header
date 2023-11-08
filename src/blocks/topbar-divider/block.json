@@ -4,7 +4,7 @@
 	"name": "toehold/topbar-divider",
 	"version": "1.0.0",
 	"title": "Header Topbar Divider",
-	"category": "toehold",
+	"category": "text",
 	"description": "Topbar divider for header template",
 	"parent": ["toehold/header-topbar"],
 	"example": {

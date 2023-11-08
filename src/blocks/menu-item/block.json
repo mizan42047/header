@@ -4,7 +4,7 @@
 	"name": "toehold/menu-item",
 	"version": "1.0.0",
 	"title": "Header Menu Item",
-	"category": "toehold",
+	"category": "text",
 	"parent": ["toehold/navmenu"],
 	"description": "Menu item for header template",
 	"example": {
