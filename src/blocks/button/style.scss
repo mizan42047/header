@@ -1,5 +1,9 @@
+.wp-block-post-content a:where(:not(.wp-element-button, .wp-block-toehold-button)){
+    color: unset;
+}
+
 .editor-styles-wrapper a.wp-block-toehold-button,
-a.wp-block-toehold-button {
+.wp-site-blocks a.wp-block-toehold-button {
     gap: 8px;
     line-height: 1;
     font-size: 16px;
